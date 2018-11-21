@@ -1,0 +1,184 @@
+body {
+  /* Семейство шрифтов */
+  /*font-family: "Tahoma", serif;*/  
+  font-family: "Muller","Arial",sans-serif; 
+  
+  font-size: 16px;  /* Размер основного шрифта */
+  color: #4b4a45; /* Цвет основного текста */ 
+  }
+
+  h3 {
+    color: #a52a2a; /* Цвет заголовка */
+    font-size: 16pt; /* Размер шрифта в пунктах */
+  }
+
+  h4 {
+    color: #a52a2a; /* Цвет заголовка */
+    font-size: 18pt; /* Размер шрифта в пунктах */
+    font-family: Georgia, Times, serif; /* Семейство шрифтов */
+    font-weight: normal; /* Нормальное начертание текста  */
+  }
+
+  h5 {
+    color: black; /* Цвет заголовка */
+    font-size: 12pt; /* Размер шрифта в пунктах */
+  }
+
+p {  
+  color: black; /* Цвет основного текста */   
+}
+
+.Label1 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /*Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */ 
+  margin-left: 140px; /* Отступ слева в пикселах */
+}
+
+.Label2 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /* Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */ 
+  margin-left: 70px; /* Отступ слева в пикселах */
+
+}
+
+.Label3 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /* Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */ 
+  margin-left: 70px; /* Отступ слева в пикселах */
+
+}
+
+.Label4 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /* Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */ 
+  margin-left: 90px; /* Отступ слева в пикселах */
+
+}
+
+.Label5 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /* Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */  
+  margin-left: 90px; /* Отступ слева в пикселах */
+}
+
+.Label6, LabelI1 {
+  text-align: left; /* Выравнивание по ширине */
+  font-weight: normal; /* Нормальное начертание текста */
+  font-size: 11pt; /* Размер шрифта в пунктах */
+  color:  #4b4a45; ; /* Цвет основного текста */ 
+  margin-left: 400px; /* Отступ слева в пикселах */
+}
+.LabelI1 {
+  margin-left: 160px; /* Отступ слева в пикселах */
+}
+.LabelI2 {
+  margin-left: 180px; /* Отступ слева в пикселах */
+}
+.LabelI3 {
+  margin-left: 140px; /* Отступ слева в пикселах */
+}
+.LabelI4{
+  margin-left: 220px; /* Отступ слева в пикселах */
+}
+.LabelI5{
+  margin-left: 220px; /* Отступ слева в пикселах */
+}
+
+.LabelI6{
+  margin-left: 220px; /* Отступ слева в пикселах */
+}
+
+.LabelI7{
+  margin-left: 220px; /* Отступ слева в пикселах */
+}
+
+.LabelI8{
+  margin-left: 130px; /* Отступ слева в пикселах */
+}
+.LabelI9{
+  margin-left: 130px; /* Отступ слева в пикселах */
+}
+.PictureOne {
+  margin-left: 40px; /* Отступ слева в пикселах */
+}
+
+.PictureTwo {
+  margin-left: 80px; /* Отступ слева в пикселах */
+}
+
+.PictureThree {
+  margin-left: 80px; /* Отступ слева в пикселах */
+}
+
+.PictureFour {
+  margin-left: 110px; /* Отступ слева в пикселах */
+}
+
+.PictureFive {
+  margin-left: 110px; /* Отступ слева в пикселах */
+}
+
+.PictureSix {
+  margin-left: 10px; /* Отступ слева в пикселах */
+}
+.PictureI1, .PictureI2, .PictureI3  {
+  margin-left: 110px; /* Отступ слева в пикселах */
+}
+.PictureI3{
+  margin-left: 80px; /* Отступ слева в пикселах */
+}
+
+.PictureI4 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+
+.PictureI5 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+
+.PictureI6 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+.PictureI7 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+
+.PictureI8 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+.PictureI9 {
+  margin-left: 50px; /* Отступ слева в пикселах */
+}
+
+/* 
+/* Задаем зачеркнутый текст
+.ClassName {
+  color: green;
+  text-decoration: line-through;
+}
+
+
+/**********************************************************/
+/* 
+/* Задаем отступ от левого края
+.ClassName {
+  color: orange;
+  padding-left: 15px;
+}
+
+/* Задаем цвет фона надписи
+.ClassName {
+  color: red;
+  background-color: #fff0f0;
+} 
+*/
