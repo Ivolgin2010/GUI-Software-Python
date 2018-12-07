@@ -527,6 +527,7 @@ class RibbonBar(wx.Dialog):
         # Создаем окно многострочного текста и открываем его во фрейме
         self.my_text = wx.TextCtrl(frame, style=wx.TE_MULTILINE)
         
+        # Задаем свойства текста
         self.my_text.SetFont(wx.Font(FONTSIZE, wx.FONTFAMILY_TELETYPE, wx.NORMAL, wx.NORMAL))
        
         # Выбираем текущую рабочую директорию
